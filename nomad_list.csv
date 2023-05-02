@@ -1,0 +1,195 @@
+continent,country,capital_city,life_score,happiness_level,income_level,live_cost, rent_price ,total_score
+Asia,Afghanistan,Kabul,Bad,Bad, 49 ," 1,848 ", 815 ,0.5
+Europe,Albania,Tirana,Okay,Bad, 338 ," 1,998 ", 828 ,2.99
+Africa,Algeria,Algiers,Okay,Okay, 326 ," 1,934 ", 377 ,2.69
+Europe,Andorra,Andorra la Vella,Good,null," 3,082 "," 5,601 "," 1,424 ",2.39
+Africa,Angola,Luanda,Okay,Bad, 309 ," 3,056 "," 1,842 ",2.51
+America,Antigua and Barbuda,St Johns,Okay,null," 1,205 "," 4,891 "," 1,226 ",2.03
+America,Argentina,Buenos Aires,Good,Good," 1,037 "," 1,791 ", 633 ,4.09
+Asia,Armenia,Yerevan,Okay,Bad, 301 ," 2,414 ", 542 ,3.08
+America,Aruba,Oranjestad,Good,null," 2,120 "," 5,918 "," 1,201 ",2.46
+Oceania,Australia,Canberra,Good,Great," 4,506 "," 6,752 "," 2,159 ",2.52
+Europe,Austria,Vienna,Good,Good," 3,738 "," 5,142 "," 1,759 ",2.73
+Asia,Azerbaijan,Baku,Okay,Okay, 324 ," 1,630 ", 456 ,2.8
+America,Bahamas,Nassau,Okay,null," 1,927 "," 7,180 "," 1,503 ",2.24
+Asia,Bahrain,Manama,Good,Good," 1,882 "," 3,649 "," 1,280 ",2.6
+Asia,Bangladesh,Dhaka,Okay,Bad, 113 ," 1,781 ", 721 ,2.65
+America,Barbados,Bridgetown,Okay,null," 1,331 "," 5,806 ", 955 ,2.05
+Europe,Belarus,Minsk,Bad,Okay, 417 ," 1,560 ", 442 ,0.5
+Europe,Belgium,Brussels,Good,Good," 3,433 "," 5,726 "," 1,451 ",2.58
+America,Bermuda,Hamilton,Good,null," 8,280 "," 10,613 "," 5,451 ",2.29
+America,Bolivia,Sucre,Okay,Okay, 259 ," 1,327 ", 695 ,2.88
+Europe,Bosnia and Herzegovina,Sarajevo,Good,null, 401 ," 3,171 ", 608 ,2.93
+Africa,Botswana,Gaborone,Okay,Bad, 576 ," 2,480 "," 1,081 ",2.62
+America,Brazil,Brasilia,Okay,Good, 721 ," 2,298 ", 827 ,2.62
+America,British Virgin Islands,Road Town,Good,null," 2,854 "," 6,812 "," 1,603 ",2.32
+Asia,Brunei,Bandar Seri Begawan,Okay,null," 2,245 "," 2,321 ", 936 ,2.67
+Europe,Bulgaria,Sofia,Good,Bad, 622 ," 2,220 ", 822 ,3.39
+Africa,Burkina Faso,Ouagadougou,Bad,Bad, 52 ," 2,038 ", 458 ,2.5
+Asia,Cambodia,Phnom Penh,Okay,Bad, 106 ," 1,655 ", 954 ,3.21
+Africa,Cameroon,Yaounde,Bad,Bad, 115 ," 2,645 "," 2,211 ",2.29
+America,Canada,Ottawa,Good,Great," 3,513 "," 5,347 "," 1,150 ",2.51
+Africa,Cape Verde,Praia,Okay,null, 253 ," 2,636 ", 569 ,2.55
+America,Cayman Islands,George Town,Good,null," 5,272 "," 4,790 "," 2,721 ",2.36
+Africa,Central African Republic,Bangui,Bad,null, 33 ," 1,523 ", 300 ,0.5
+Africa,Chad,NDjamena,Bad,Bad, 65 ," 5,147 "," 3,954 ",1.33
+America,Chile,Santiago,Good,Good," 1,150 "," 2,082 "," 1,313 ",3.09
+Asia,China,Beijing,Good,Okay, 677 ," 2,877 ", 813 ,2.67
+America,Colombia,Bogota,Okay,Good, 484 ," 1,344 ", 859 ,3
+Oceania,Cook Islands,Avarua,Okay,null," 1,392 "," 4,475 "," 1,089 ",2.19
+America,Costa Rica,San Jose,Good,Great, 985 ," 2,957 ", 946 ,2.89
+Europe,Croatia,Zagreb,Good,Okay," 1,013 "," 2,687 "," 1,025 ",3.31
+America,Cuba,Havana,Good,null, 651 ," 1,921 ", 955 ,3.23
+America,Curacao,Willemstad,Good,null," 1,632 "," 3,796 "," 1,296 ",2.97
+Asia,Cyprus,Nicosia,Okay,Okay," 1,969 "," 3,574 "," 1,070 ",2.63
+Europe,Czech Republic,Prague,Good,Good," 1,534 "," 4,381 "," 1,046 ",2.87
+Africa,Democratic Republic of the Congo,Kinshasa,Bad,null, 43 ," 3,460 ", 731 ,2.18
+Europe,Denmark,Copenhagen,Good,Great," 4,478 "," 6,109 "," 2,378 ",2.98
+Africa,Djibouti,Djibouti,Bad,null, 167 ," 3,482 "," 1,530 ",1.94
+America,Dominican Republic,Santo Domingo,Okay,Okay, 560 ," 1,934 ", 867 ,2.9
+Asia,East Timor,Dili,Okay,null, 177 ," 2,074 ", 955 ,2.64
+America,Ecuador,Quito,Good,Okay, 499 ," 1,987 ", 514 ,3.14
+Africa,Egypt,Cairo,Okay,Bad, 235 , 985 , 226 ,2.91
+America,El Salvador,San Salvador,Okay,Okay, 352 ," 1,981 ", 448 ,2.5
+Africa,Eritrea,Asmara,Bad,null, 91 ," 1,936 ", 855 ,0.5
+Europe,Estonia,Tallinn,Good,Okay," 1,482 "," 2,747 "," 1,001 ",3.3
+Africa,Ethiopia,Addis Ababa,Bad,Bad, 57 ," 1,714 ", 724 ,0.5
+America,Falkland Islands,Stanley,Okay,null," 4,733 "," 5,754 "," 1,405 ",2.27
+Oceania,Fiji,Suva,Okay,null, 433 ," 2,954 "," 1,561 ",2.91
+Europe,Finland,Helsinki,Good,Great," 3,612 "," 4,502 "," 1,523 ",2.94
+Europe,France,Paris,Good,Good," 3,069 "," 5,782 "," 2,193 ",2.57
+America,French Guiana,Cayenne,Okay,null," 1,497 "," 3,486 "," 1,377 ",1.98
+Africa,Gabon,Libreville,Okay,Bad, 584 ," 3,358 ", 720 ,2.14
+Africa,Gambia,Banjul,Bad,null, 40 ," 1,398 ", 379 ,2.63
+Asia,Georgia,Tbilisi,Good,Bad, 304 ," 2,024 ", 482 ,3.37
+Europe,Germany,Berlin,Good,Good," 3,538 "," 4,018 "," 1,490 ",3.42
+Africa,Ghana,Accra,Okay,Bad, 126 ," 3,117 ", 880 ,2.45
+Europe,Gibraltar,Gibraltar,Good,null," 7,737 "," 6,014 "," 1,344 ",2.39
+Europe,Greece,Athens,Good,Okay," 1,436 "," 3,788 "," 1,065 ",3.18
+America,Greenland,Nuuk,Okay,null," 3,372 "," 4,690 "," 1,480 ",2.01
+Oceania,Guam,Hagatna,Good,null, 1 ," 3,863 "," 1,455 ",2.62
+America,Guatemala,Guatemala City,Okay,Good, 346 ," 1,452 ", 550 ,2.71
+Africa,Guinea,Conakry,Bad,Bad, 57 ," 1,658 ", 445 ,2.56
+America,Guyana,Georgetown,Okay,null, 370 ," 2,984 ", 806 ,2.6
+America,Haiti,Port-au-Prince,Bad,Bad, 59 ," 1,918 ", 705 ,2.6
+America,Honduras,Tegucigalpa,Okay,Okay, 197 ," 1,861 ", 575 ,2.45
+Europe,Hungary,Budapest,Good,Okay," 1,075 "," 2,372 ", 651 ,3.33
+Europe,Iceland,Reykjavik,Good,Great," 5,081 "," 8,272 "," 2,181 ",2.73
+Asia,India,New Delhi,Okay,Bad, 142 ," 2,327 "," 1,713 ",3.17
+Asia,Indonesia,Jakarta,Okay,Okay, 298 ," 1,535 "," 1,194 ",3.18
+Asia,Iran,Tehran,Okay,Bad, 442 ," 2,851 ", 689 ,2.64
+Asia,Iraq,Baghdad,Bad,Bad, 358 ," 1,931 ", 813 ,0.5
+Europe,Ireland,Dublin,Good,Good," 5,375 "," 5,946 "," 2,139 ",2.79
+Asia,Israel,Jerusalem,Good,Great," 3,232 "," 4,966 "," 1,388 ",2.14
+Europe,Italy,Rome,Good,Okay," 2,607 "," 7,621 "," 2,028 ",2.51
+America,Jamaica,Kingston,Okay,Okay, 407 ," 3,826 "," 1,101 ",2.49
+Asia,Japan,Tokyo,Good,Okay," 3,220 "," 5,004 "," 2,076 ",2.9
+Europe,Jersey,Saint Helier,Good,null," 4,329 "," 7,221 "," 1,154 ",2.33
+Asia,Jordan,Amman,Okay,Okay, 341 ," 2,374 ", 987 ,2.81
+Asia,Kazakhstan,Astana,Okay,Okay, 642 ," 1,685 ", 773 ,2.76
+Africa,Kenya,Nairobi,Okay,Bad, 121 ," 1,722 ", 813 ,3.46
+Europe,Kosovo,Pristina,Good,Okay, 318 ," 2,100 ", 396 ,2.99
+Asia,Kuwait,Kuwait City,Okay,Good," 2,269 "," 3,598 ", 980 ,2.42
+Asia,Kyrgyzstan,Bishkek,Okay,Bad, 92 ," 1,252 ", 359 ,2.8
+Asia,Laos,Vientiane,Okay,null, 195 ," 1,076 ", 447 ,2.68
+Europe,Latvia,Riga,Good,Okay," 1,166 "," 2,694 ", 936 ,3.05
+Asia,Lebanon,Beirut,Okay,Okay, 700 ," 1,568 ", 488 ,3.4
+Africa,Lesotho,Maseru,Bad,Bad, 85 ," 1,878 ", 428 ,2.48
+Africa,Liberia,Monrovia,Okay,Bad, 50 ," 3,905 "," 1,252 ",2.13
+Africa,Libya,Tripoli,Bad,Okay, 569 ," 1,967 ", 698 ,0.5
+Europe,Lithuania,Vilnius,Good,Okay," 1,226 "," 3,902 "," 1,049 ",2.81
+Europe,Luxembourg,Luxembourg,Good,Good," 8,486 "," 6,108 "," 2,300 ",2.3
+Europe,Macedonia,Skopje,Okay,Okay, 430 ," 1,275 ", 209 ,3.27
+Africa,Madagascar,Antananarivo,Okay,Bad, 38 ," 1,496 ", 448 ,2.77
+Africa,Malawi,Lilongwe,Okay,Bad, 25 ," 2,254 ", 488 ,2.6
+Asia,Malaysia,Kuala Lumpur,Okay,Good, 792 ," 1,773 ", 997 ,3.59
+Asia,Maldives,Male,Okay,null, 736 ," 4,906 "," 1,847 ",2.15
+Africa,Mali,Bamako,Bad,Bad, 65 ," 1,666 ", 500 ,0.5
+Europe,Malta,Valletta,Good,Good," 2,135 "," 5,073 "," 2,235 ",2.37
+Africa,Mauritania,Nouakchott,Bad,Bad, 90 ," 2,193 ", 489 ,2.35
+Africa,Mauritius,Port Louis,Good,Okay, 807 ," 2,340 ", 497 ,3.25
+America,Mexico,Mexico City,Good,Good, 704 ," 1,868 "," 1,038 ",3.94
+Europe,Moldova,Chisinau,Okay,Okay, 139 ," 2,062 ", 504 ,2.99
+Europe,Monaco,Monaco,Okay,null," 14,000 "," 8,101 "," 6,436 ",2.44
+Asia,Mongolia,Ulaanbaatar,Okay,Bad, 307 ," 2,158 ", 832 ,2.47
+Europe,Montenegro,Podgorica,Okay,Okay, 580 ," 2,211 ", 434 ,2.69
+Africa,Morocco,Rabat,Okay,Okay, 245 ," 2,170 ", 597 ,2.8
+Africa,Mozambique,Maputo,Bad,Bad, 32 ," 2,193 ", 665 ,0.5
+Asia,Myanmar,Naypyidaw,Bad,Bad, 104 ," 1,251 ", 408 ,0.5
+Africa,Namibia,Windhoek,Okay,Bad, 368 ," 2,020 ", 665 ,2.82
+Asia,Nepal,Kathmandu,Okay,Bad, 60 ," 1,231 ", 929 ,3.44
+Europe,Netherlands,Amsterdam,Good,Great," 3,813 "," 8,956 "," 2,753 ",3.02
+Oceania,New Caledonia,Noumea,Okay,null," 2,887 "," 5,500 "," 1,349 ",1.66
+Oceania,New Zealand,Wellington,Great,Great," 3,353 "," 4,902 "," 1,800 ",2.95
+America,Nicaragua,Managua,Okay,Okay, 179 ," 1,827 ", 484 ,2.59
+Africa,Niger,Niamey,Bad,Bad, 30 ," 2,010 ", 577 ,2.61
+Africa,Nigeria,Abuja,Bad,Bad, 181 ," 2,103 ", 771 ,2.71
+Asia,Northern Cyprus,Nicosia,Okay,Okay," 1,969 "," 3,574 "," 1,070 ",2.63
+Europe,United Kingdom Northern Ireland,Belfast,Good,Good," 3,354 "," 5,041 "," 1,315 ",2.15
+Europe,Norway,Oslo,Good,Great," 5,885 "," 4,501 "," 1,573 ",2.88
+Asia,Oman,Muscat,Okay,null," 1,190 "," 3,043 "," 1,275 ",2.4
+Asia,Pakistan,Islamabad,Okay,Okay, 122 ," 1,477 ", 640 ,2.75
+Asia,Palestine,Jerusalem,Okay,null, 233 ," 2,798 ", 478 ,2.65
+America,Panama,Panama City,Good,Good," 1,140 "," 2,686 "," 1,749 ",2.87
+Oceania,Papua New Guinea,Port Moresby,Bad,null, 203 ," 3,227 "," 1,237 ",2.19
+America,Paraguay,Asuncion,Okay,Okay, 337 ," 1,534 ", 423 ,2.97
+America,Peru,Lima,Okay,Okay, 504 ," 1,457 ", 890 ,3.24
+Asia,Philippines,Manila,Okay,Okay, 246 ," 1,698 ", 942 ,3.37
+Europe,Poland,Warsaw,Good,Okay," 1,028 "," 2,716 ", 713 ,3.45
+Europe,Portugal,Lisbon,Good,Okay," 1,646 "," 3,799 "," 1,663 ",3.82
+America,Puerto Rico,San Juan,Good,null," 2,386 "," 4,671 "," 1,330 ",2.83
+Asia,Qatar,Doha,Good,Good," 4,944 "," 5,304 "," 2,188 ",2.39
+Africa,Republic of the Congo,Brazzaville,Okay,null, 126 ," 2,305 "," 1,441 ",2.62
+Europe,Romania,Bucharest,Good,Okay, 787 ," 1,965 ", 526 ,3.29
+Asia,Russia,Moscow,Bad,Okay, 721 ," 2,442 ", 530 ,0.5
+Africa,Rwanda,Kigali,Okay,Bad, 59 ," 1,890 ", 842 ,3.21
+Africa,Saint Helena,Jamestown,Okay,null, 1 ," 6,585 "," 4,627 ",2.3
+Oceania,Samoa,Apia,Okay,null, 351 ," 3,261 ", 783 ,2.68
+Asia,Saudi Arabia,Riyadh,Okay,Good," 1,651 "," 3,605 ", 666 ,2.14
+Africa,Senegal,Dakar,Okay,Bad, 79 ," 2,204 ", 590 ,2.76
+Europe,Serbia,Belgrade,Good,Okay, 452 ," 2,335 ", 793 ,3.4
+Africa,Seychelles,Victoria,Okay,null," 1,268 "," 5,208 "," 1,441 ",2
+Africa,Sierra Leone,Freetown,Bad,Bad, 41 ," 2,032 ", 596 ,2.59
+Asia,Singapore,Singapore,Good,Good," 4,401 "," 5,593 "," 2,371 ",3.07
+America,Sint Maarten,Philipsburg,Okay,null," 2,363 "," 5,945 "," 1,478 ",2.1
+Europe,Slovakia,Bratislava,Good,Good," 1,374 "," 2,487 ", 718 ,3.17
+Europe,Slovenia,Ljubljana,Good,Okay," 1,793 "," 3,907 "," 1,263 ",3.22
+Oceania,Solomon Islands,Honiara,Okay,null, 158 ," 3,764 "," 1,006 ",2.29
+Africa,Somalia,Mogadishu,Bad,Okay, 42 ," 2,562 ", 771 ,0.5
+Africa,South Africa,Pretoria,Okay,Bad, 425 ," 2,274 ", 723 ,2.96
+Asia,South Korea,Seoul,Good,Okay," 2,315 "," 2,999 "," 1,366 ",3.29
+Africa,South Sudan,Juba,Bad,Bad, 45 ," 2,322 ", 857 ,0.5
+Europe,Spain,Madrid,Good,Good," 2,225 "," 4,844 ", 912 ,2.75
+Asia,Sri Lanka,Sri Jayawardenapura Kotte,Okay,Bad, 326 ," 1,526 ", 714 ,3.14
+Africa,Sudan,Khartoum,Bad,Bad, 175 , 702 , 374 ,0.5
+America,Suriname,Paramaribo,Okay,null, 489 ," 1,694 ", 300 ,3.07
+Europe,Sweden,Stockholm,Good,Great," 4,224 "," 4,012 "," 1,536 ",3.04
+Europe,Switzerland,Bern,Good,Great," 6,654 "," 6,534 "," 2,120 ",2.54
+Asia,Syria,Damascus,Bad,Bad, 100 ," 3,751 ", 805 ,0.5
+Asia,Taiwan,Taipei,Good,Good," 2,048 "," 2,954 "," 1,057 ",3.09
+Asia,Tajikistan,Dushanbe,Okay,Bad, 66 ," 1,060 ", 415 ,2.66
+Africa,Tanzania,Dodoma,Bad,Bad, 73 ," 1,862 ", 996 ,0.5
+Asia,Thailand,Bangkok,Good,Good, 493 ," 2,102 "," 1,276 ",4.2
+Africa,Togo,Lome,Bad,Bad, 49 ," 1,094 ", 475 ,2.68
+Oceania,Tonga,Nukualofa,Okay,null, 312 ," 2,964 ", 879 ,2.59
+America,Trinidad and Tobago,Port of Spain,Okay,Good," 1,471 "," 3,763 "," 1,219 ",2.32
+Africa,Tunisia,Tunis,Okay,Bad, 305 ," 1,931 ", 426 ,2.87
+Asia,Turkey,Ankara,Okay,Okay, 905 ," 1,340 ", 392 ,2.95
+Asia,Turkmenistan,Ashgabat,Okay,Okay, 532 ," 4,674 ", 767 ,2.16
+Oceania,Tuvalu,Funafuti,Okay,null, 257 ," 3,045 "," 1,066 ",2.42
+Africa,Uganda,Kampala,Okay,Bad, 51 ," 1,707 ", 595 ,2.89
+Europe,Ukraine,Kyiv,Bad,Bad, 175 ," 1,210 ", 381 ,0.5
+Asia,United Arab Emirates,Abu Dhabi,Okay,Good," 3,135 "," 4,475 "," 3,037 ",2.52
+Europe,United Kingdom,London,Good,Good," 3,354 "," 6,290 "," 3,340 ",3.27
+America,United States,Washington DC,Good,Good," 4,817 "," 5,381 "," 2,090 ",2.91
+America,United States Virgin Islands,Charlotte Amalie,Okay,null, 1 ," 8,725 "," 1,927 ",2.15
+America,Uruguay,Montevideo,Good,Good," 1,268 "," 2,974 ", 892 ,2.67
+Asia,Uzbekistan,Tashkent,Okay,Okay, 176 ," 1,560 ", 353 ,3.03
+Oceania,Vanuatu,Port Vila,Okay,null, 258 ," 3,733 "," 1,171 ",2.27
+Europe,Vatican City,Vatican City,Okay,null, 1 ," 5,359 "," 3,868 ",2.06
+America,Venezuela,Caracas,Okay,Okay, 769 ," 2,264 ", 905 ,2.34
+Asia,Vietnam,Hanoi,Okay,Bad, 181 ," 1,162 ", 478 ,3.26
+Africa,Western Sahara,Laayoune,Okay,null, 1 ," 1,885 ", 624 ,2.4
+Asia,Yemen,Sanaa,Bad,Bad, 77 ," 1,544 ", 626 ,0.5
+Africa,Zambia,Lusaka,Okay,Bad," 2,461 "," 2,508 ", 307 ,2.49
+Africa,Zimbabwe,Harare,Okay,Bad, 83 ," 2,188 ", 569 ,3.06
